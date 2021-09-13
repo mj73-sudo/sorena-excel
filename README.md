@@ -1,2 +1,2 @@
 # sorena-excel
-this project for
+This java library used for read and write excel file in java.
